@@ -1,0 +1,4 @@
+OP07 filter=lfs diff=lfs merge=lfs -text
+OP09 filter=lfs diff=lfs merge=lfs -text
+OP18 filter=lfs diff=lfs merge=lfs -text
+OP01 filter=lfs diff=lfs merge=lfs -text
